@@ -45,11 +45,12 @@ performance.
 ## Supporting documents
 To contribute to these documents, please read [How To Contribute](#how-to-contribute).
 
-* [Applicability of WebDAV (RFC 4918) for synchronisation purposes](./applicability-of-webdav.md).
+* [Applicability of WebDAV (RFC 4918) for synchronisation purposes ?](./applicability-of-webdav.md).
 
 
 ## Related projects and organisations
 This is a list of projects and organisations which activities are highly "in sync" with the topics covered in the ISS group.
+
 *List is alphabetically sorted*
 
 * [ClawIO](http://clawio.github.io) [Project]
@@ -69,7 +70,7 @@ New contributions to these documents have to be previously discussed using the [
 The contribution flow is the following:
 
 1. Open a discussion in the [ISS mailing list](https://www.ietf.org/mailman/listinfo/storagesync).
-2. Other members of the ISS mailing list will give their opinion and review the topic presented.
+2. Other members of the [ISS mailing list](https://www.ietf.org/mailman/listinfo/storagesync) will give their opinion and review the topic presented.
 3. When there is a general agreement on the topic anyone can contribute to these documents using one of the mechanisms outlined below in order to have the information pressented in a more efficient way.
 
 Contributions to these documents can be made using the following ways:
