@@ -26,13 +26,13 @@ To contribute to these documents, please read [How To Contribute](#how-to-contri
 
 
 ## How To Contribute
-New contributions to these documents have to be previously reviewed using the ISS mailing list.
+New contributions to these documents have to be previously discussed using the ISS mailing list.
 
 The contribution flow is the following:
 
 1. Open a discussion in the ISS mailing list.
 2. Members of the ISS mailing list will give their opinion and review the topic presented.
-3. When there is a general agreement on the topic anyone can contribute to these documents using one of the mechanisms outlines below.
+3. When there is a general agreement on the topic anyone can contribute to these documents using one of the mechanisms outlined below.
 
 
 Contributions can be made to these documents using the following ways:
