@@ -22,7 +22,7 @@ performance.
 ## Supporting documents
 To contribute to these documents, please read [How To Contribute](#how-to-contribute).
 
-* [Applicability of WebDAV (RFC 4918) for synchronisation purposes](./applicability-of-webdav).
+* [Applicability of WebDAV (RFC 4918) for synchronisation purposes](./applicability-of-webdav.md).
 
 
 ## How To Contribute
