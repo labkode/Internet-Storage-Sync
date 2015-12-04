@@ -1,4 +1,7 @@
 # Internet Storage Sync ( ISS )
+
+**Internet Storage Sync - Mechanisms to synchronize client file systems with Internet-based data storage services**
+
 This repository contains supporting documents for [ISS](https://tools.ietf.org/html/draft-cui-iss-problem-03) discussion topics that are not suitable to be tracked in the mailing list.
 
 
@@ -26,17 +29,15 @@ To contribute to these documents, please read [How To Contribute](#how-to-contri
 
 
 ## How To Contribute
-New contributions to these documents have to be previously discussed using the ISS mailing list.
+New contributions to these documents have to be previously discussed using the [ISS mailing list](https://www.ietf.org/mailman/listinfo/storagesync).
 
 The contribution flow is the following:
 
-1. Open a discussion in the ISS mailing list.
+1. Open a discussion in the [ISS mailing list](https://www.ietf.org/mailman/listinfo/storagesync).
 2. Members of the ISS mailing list will give their opinion and review the topic presented.
 3. When there is a general agreement on the topic anyone can contribute to these documents using one of the mechanisms outlined below.
 
-
-Contributions can be made to these documents using the following ways:
+Contributions to these documents can be made using the following ways:
 
 * Pull Request (Recommended) 
-
 * Issue
