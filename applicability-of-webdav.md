@@ -6,3 +6,5 @@ This document outlines the applicability of the [WebDAV Protocol](http://www.web
 
 * [Collection Synchronization for Web Distributed Authoring and Versioning (WebDAV)](https://www.ietf.org/rfc/rfc6578.txt)
 * [Versioning Extensions to WebDAV (Web Distributed Authoring and Versioning)](http://www.webdav.org/specs/rfc3253.html)
+* [ownCloud Sync Protocol](https://github.com/cernbox/smashbox/blob/master/protocol/protocol.md) and [Checksum extension](
+https://github.com/cernbox/smashbox/blob/master/protocol/checksum.md)
